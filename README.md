@@ -4,13 +4,15 @@ Incoming Computer Science student at Carnegie Mellon University interested in so
 
 ## Currently
 
-- Preparing for software engineering internships
-- Building projects involving distributed systems and autonomous platforms
-- Strengthening my data structures and algorithms fundamentals
+- Building software for autonomous and robotic systems
+- Building an AI-powered movie recommendation system using machine learning
+- Developing multiplayer Roblox games, including a football manager and a cooperative dinosaur survival game
+- Learning and practicing data structures and algorithms on Leetcode/Codeforces
 
 ## Technologies
 
-C++ · Python · Java · JavaScript · Git · Lua
+**Languages:** C++, Python, Java, JavaScript, Luau  
+**Tools:** Git, GitHub, Linux, Roblox Studio
 
 ## Links
 
