@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Lakshya 👋
 
-<!--
-**lakshya-wahi/lakshya-wahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Incoming Computer Science student at Carnegie Mellon University interested in
+software engineering, systems, artificial intelligence, and machine learning.
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Preparing for software engineering internships
+- Building projects involving distributed systems and autonomous platforms
+- Strengthening my data structures and algorithms fundamentals
+
+## Technologies
+
+C++ · Python · Java · JavaScript · Git · Lua
+
+## Links
+
+[LinkedIn](linkedin.com) · [Email](mailto:lakshyawahi75@gmail.com)
