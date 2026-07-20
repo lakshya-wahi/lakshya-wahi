@@ -16,4 +16,4 @@ Incoming Computer Science student at Carnegie Mellon University interested in so
 
 ## Links
 
-[LinkedIn](linkedin.com) · [Email](mailto:lakshyawahi75@gmail.com)
+[LinkedIn]([linkedin.com](https://www.linkedin.com/in/lakshya-wahi-6a6a2833b/)) · [Email](mailto:lakshyawahi75@gmail.com)
