@@ -6,7 +6,7 @@ Incoming Computer Science student at Carnegie Mellon University interested in so
 
 - Developing software for autonomous robotics and distributed vehicle platooning research
 - Designing an initial architecture for a machine-learning movie recommendation system
-- Developing multiplayer Roblox games, including a football manager and a cooperative dinosaur survival game
+- Developing multiplayer Roblox games and simulation systems
 - Solving algorithmic programming problems on Codeforces and LeetCode
 ## Technologies
 
