@@ -7,8 +7,7 @@ Incoming Computer Science student at Carnegie Mellon University interested in so
 - Building software for autonomous and robotic systems
 - Designing an initial architecture for a machine-learning movie recommendation system
 - Developing multiplayer Roblox games, including a football manager and a cooperative dinosaur survival game
-- Learning and practicing data structures and algorithms on Leetcode/Codeforces
-
+- Solving algorithmic programming problems on Codeforces and LeetCode
 ## Technologies
 
 **Languages:** C++, Python, Java, JavaScript, Luau  
