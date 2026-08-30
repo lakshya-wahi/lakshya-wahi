@@ -1,6 +1,4 @@
-# Hi, I'm Lakshya 👋
-
-Incoming Computer Science student at Carnegie Mellon University interested in software engineering, distributed systems, and machine learning.
+CS @ Carnegie Mellon
 
 ## Currently
 
