@@ -8,8 +8,11 @@ CS @ Carnegie Mellon
 - Solving algorithmic programming problems on Codeforces and LeetCode
 ## Technologies
 
-**Languages:** C++, Python, Java, JavaScript, Luau  
-**Tools:** Git, GitHub, Linux, Roblox Studio
+**Languages:** Python, Java, JavaScript, C++, C, Luau
+**Libraries/Frameworks:** React.js, scikit-learn, pandas, NumPy, ROS
+**Data/Cloud:** SQL, AWS
+**Tools:** Git, GitHub, GitHub Actions, Linux/Unix, Docker, Roblox Studio, Unity
+
 
 ## Links
 
